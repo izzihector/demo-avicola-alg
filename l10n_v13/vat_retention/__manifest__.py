@@ -13,7 +13,7 @@
             'account',
             'account_accountant',
             'base',
-            'l10n_ve_fiscal_requirements',
+            'locv_account_fiscal_requirements',
             ],
         'data': [
             'security/ir.model.access.csv',
